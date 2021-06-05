@@ -1,0 +1,26 @@
+
+.bg-blue
+{
+    background-color: #678ea8;
+    color: rgb(233, 227, 227);
+}
+.bg-green
+{
+    background-color:#63a04b
+}
+.bg-yellow
+{
+    background: rgb(234, 238, 29);
+}
+.bg-red
+{
+    background-color: rgb(240, 95, 95);
+}
+
+.sideber>div
+{
+margin: 20px;
+background-color:#91acbe ;
+color: rgb(220, 219, 255);
+}
+
